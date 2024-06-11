@@ -7,4 +7,4 @@ summing <- function(x, y){
   x+y
 }
 
-1+1
+a <- "hello"
