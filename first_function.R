@@ -13,3 +13,8 @@ a <- "hello"
 funny_function <- function(x) {
   x2 + x
 }
+
+
+fun <- function(x){
+  x <- sample(1:1000, size = 1000, replace = T)
+}
