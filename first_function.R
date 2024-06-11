@@ -8,3 +8,8 @@ summing <- function(x, y){
 }
 
 a <- "hello"
+
+
+funny_function <- function(x) {
+  x2 + x
+}
