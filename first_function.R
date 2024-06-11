@@ -6,3 +6,4 @@ squaref <- function(x){
 summing <- function(x, y){
   x+y
 }
+
