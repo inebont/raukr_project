@@ -2,3 +2,4 @@
 squaref <- function(x){
   x^2
 }
+
